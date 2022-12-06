@@ -11,7 +11,7 @@
   "license": "ISC",
   "dependencies": {
     "ejs": "^2.6.1",
-    "express": "^4.16.4",
+    "express": "^4.18.2",
     "live-server": "^1.2.1",
     "require": "^2.4.20",
     "three": "^0.100.0"
